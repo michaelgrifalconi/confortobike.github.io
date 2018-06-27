@@ -2,7 +2,6 @@
 
 Design by Tim O'Brien [t413.com](http://t413.com/)
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+edited by [Michael Grifalconi](http://michaelgrifalconi.com/)
 &mdash;
-this site is [open source]({{ site.source_link }})
-
+[SinglePaged theme](https://github.com/t413/SinglePaged) is [open source]({{ site.source_link }})
